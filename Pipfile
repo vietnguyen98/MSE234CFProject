@@ -10,6 +10,7 @@ numpy = "*"
 tqdm = "*"
 iprogress = "*"
 ipywidgets = "*"
+matplotlib = "*"
 
 [dev-packages]
 
